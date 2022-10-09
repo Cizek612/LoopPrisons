@@ -1,0 +1,19 @@
+Pickaxes:
+ "MEMBER":
+   Enchants:
+   - "SMOKE_BOMB;75"
+   - "ANTIMATTER;20"
+   Item:
+    Name: "&2&l[&a&l!&2&l]&a Member Pickaxe &7(Right-Click)"
+    Material: DIAMOND_PICKAXE
+    Lore:
+     - ""
+     - "&aInformation"
+     - "&a❚ &7Level: &f%pickaxe_level%"
+     - "&a❚ &7Progress: &2%pickaxe_progress%"
+     - "&a❚ &7Blocks Mined: &2%pickaxe_blocks%"
+     - ""
+     - "&aEnchants"
+     - "%pickaxe_enchants%"
+     - ""
+     - "&7&o(( &f&oRight-Click &7&o to upgrade! ))"
